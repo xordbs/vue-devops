@@ -1,5 +1,4 @@
 # vue-devops
-# vue-devops
 
 ## Project setup
 ```
